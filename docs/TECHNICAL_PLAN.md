@@ -59,7 +59,7 @@ No manual rate updates needed — rate increases automatically as xStocks compou
 
 ## Devpost & Repository Rules
 
-- [ ] Register on Devpost at devpost.com (before Tuesday)
+- [x] Register on Devpost (Alex ✓, Kevin + Waj: check before Tuesday)
 - [ ] Create project on Devpost: Tuesday April 1, 09:00 CET
 - [ ] Link this GitHub repo to Devpost submission
 - [ ] **First commit with actual code**: April 1, 09:00 CET (not before!)
@@ -83,7 +83,6 @@ No manual rate updates needed — rate increases automatically as xStocks compou
 ## Open Questions for the Team
 
 1. **@tinkk0** — Is there already a Morpho Blue market on INK for wSTRCx collateral? Or do we need to create one?
-2. **@tinkk0** — Is CoW Protocol deployed on INK? If not, which DEX for swaps?
+2. ~~CoW Protocol on INK?~~ ✅ **Confirmed** — Spreads.fi already runs CoW swaps on INK
 3. **@tinkk0** — Morpho Bundler deployed on INK? (Needed for atomic wrap+deposit+borrow)
 4. **@Waj** — Does Spreads already have a Privy app ID we can reuse for the hackathon?
-5. **Everyone** — Devpost: register individually before Tuesday

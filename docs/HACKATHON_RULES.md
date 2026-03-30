@@ -48,19 +48,20 @@ From Val (xStocks team), what they most want to see:
 
 ---
 
-## Devpost Checklist
+## xStocks Devpost Checklist
 
-- [ ] Register individual Devpost account (do before Tuesday)
+- [x] Register individual Devpost account ✓ (done)
 - [ ] Create project Tuesday 09:00 CET (team setup opens then)
-- [ ] Link GitHub repo
-- [ ] Submit draft early, update before deadline
-- [ ] Record video demo (required for finalist consideration)
+- [ ] Link this GitHub repo to the Devpost submission
+- [ ] Submit draft early, update before deadline (Thu Apr 2, 11:00)
 
 ---
 
-## ETHGlobal Hacker Dashboard
+## ETHGlobal Hacker Dashboard (ETHGlobal-specific)
 
-- Discord must be linked to unlock partner channels (including xStocks channel)
+> Source: ETHGlobal Cannes 2026 Beginners Workshop (Pascal, ETHGlobal Team)
+
+- Discord must be linked → unlocks partner channels (incl. xStocks channel for questions)
 - Ticket available from Wednesday via email + dashboard
 - EVE Packs (on-chain NFTs): Hacker (all), Builder ($100+ prize), Pioneer ($1K+ prize)
 - Participation certificate available post-event (useful for university reimbursements)
@@ -69,7 +70,11 @@ From Val (xStocks team), what they most want to see:
 
 ## Venue
 
-- **xStocks Hackathon**: TBD (INK Foundation / Kraken Institutional hosted)
-- **ETHGlobal**: Palais des Festivals, Cannes (same building as EVCC, separate entrance)
-- Mentors: 17 independent ecosystem mentors, yellow vests, 24/7 at venue
+**xStocks Hackathon** — Hacker House, Cannes (INK Foundation / Kraken Institutional hosted, exact venue TBD)
+
+**ETHGlobal Cannes** — Palais des Festivals, Cannes (same building as EVCC, separate entrance)
+- 17 independent ecosystem mentors (yellow vests), 24/7 at venue
 - Food: main meals + 24/7 snacks & drinks provided
+- Last bus ~22:00
+
+**Pragma** (Thu Apr 2 — day before ETHGlobal) — networking event, Network Pass or Hacker Pass required (discounted). Interesting for ecosystem networking between the two hackathons.
