@@ -1,40 +1,55 @@
-# Hackathon Rules & Timeline
+# xStocks Hackathon Rules & Timeline
 
-## xStocks Hackathon (our primary submission)
+## Schedule (from official agenda)
 
-| Date/Time | Event |
-|-----------|-------|
-| Now | Conceptual planning allowed (docs, architecture, no code) |
-| **Tue Apr 1, 09:00 CET** | Devpost project creation opens — **code development starts** |
-| Thu Apr 2, 09:00 | Doors open |
-| **Thu Apr 2, 11:00** | **Submission deadline** |
-| Thu Apr 2, 11:15–15:00 | Judging |
-| Thu Apr 2, 15:00 | Awards ceremony |
-| Thu Apr 2, 16:00 | Beach party (Lucia Cannes) |
+### March 31
+| Time | Event |
+|------|-------|
+| 9:00 | Registration |
+| 9:00 | Breakfast |
+| 10:00 | Introduction |
+| 10:15 | Technical Demo |
+| 11:00 | Workshops |
+| **12:00** | **Building Open — coding starts** |
+| 12:30 | Lunch |
+| 18:00 | Dinner |
+| 00:00 | Venue Closes |
 
-**Rule:** Only code produced during the hackathon counts. No pre-written implementation code.
+### April 1
+| Time | Event |
+|------|-------|
+| 9:00 | Venue Opens |
+| 9:00 | Breakfast |
+| — | Building |
+| 12:30 | Lunch |
+| 14:00 | Fireside Chats |
+| — | Building |
+| 18:00 | Dinner |
+| 00:00 | Venue Closes |
+
+### April 2
+| Time | Event |
+|------|-------|
+| 9:00 | Venue Opens |
+| 9:00 | Breakfast |
+| **11:00** | **Code Freeze** |
+| 11:10 | Judging Process |
+| 12:30 | Lunch |
+| 15:00 | Awards |
+| 16:00 | Event Ends |
+| **16:00** | **Code & Coast (closing party)** |
 
 ---
 
-## ETHGlobal Cannes (same week, separate event)
+## Key Deadlines
 
-| Date/Time | Event |
-|-----------|-------|
-| **Fri, 13:00** | Registration at Palais des Festivals (bring ticket + photo ID) |
-| Sun, 09:00 | **Submission deadline** (no extensions) |
-| Sun, ~17:00–18:00 | Hackathon ends |
-
-**ETHGlobal Key Rules:**
-- Stake slashed if no project submitted by deadline
-- **Git commit history must be clean and continuous** — no single mega-commit at the end
-- Video demo required for Top-10 / ETHGlobal Finalist candidates
-- Only 1 submission per team (1–5 people)
-- Project name/category/description can be changed up until deadline
-- Multiple submits allowed — last one counts
+- **Coding starts**: March 31, 12:00 (Building Open)
+- **Code Freeze**: April 2, 11:00
+- **Awards**: April 2, 15:00
 
 ---
 
-## xStocks Judging Criteria
+## Judging Criteria
 
 From Val (xStocks team), what they most want to see:
 1. **xStocks as collateral** — money market integrations
@@ -48,33 +63,11 @@ From Val (xStocks team), what they most want to see:
 
 ---
 
-## xStocks Devpost Checklist
+## Devpost Checklist
 
-- [x] Register individual Devpost account ✓ (done)
-- [ ] Create project Tuesday 09:00 CET (team setup opens then)
-- [ ] Link this GitHub repo to the Devpost submission
-- [ ] Submit draft early, update before deadline (Thu Apr 2, 11:00)
-
----
-
-## ETHGlobal Hacker Dashboard (ETHGlobal-specific)
-
-> Source: ETHGlobal Cannes 2026 Beginners Workshop (Pascal, ETHGlobal Team)
-
-- Discord must be linked → unlocks partner channels (incl. xStocks channel for questions)
-- Ticket available from Wednesday via email + dashboard
-- EVE Packs (on-chain NFTs): Hacker (all), Builder ($100+ prize), Pioneer ($1K+ prize)
-- Participation certificate available post-event (useful for university reimbursements)
-
----
-
-## Venue
-
-**xStocks Hackathon** — Hacker House, Cannes (INK Foundation / Kraken Institutional hosted, exact venue TBD)
-
-**ETHGlobal Cannes** — Palais des Festivals, Cannes (same building as EVCC, separate entrance)
-- 17 independent ecosystem mentors (yellow vests), 24/7 at venue
-- Food: main meals + 24/7 snacks & drinks provided
-- Last bus ~22:00
-
-**Pragma** (Thu Apr 2 — day before ETHGlobal) — networking event, Network Pass or Hacker Pass required (discounted). Interesting for ecosystem networking between the two hackathons.
+- [x] Register individual Devpost account (Alex ✓, Kevin ✓ — Waj: check)
+- [ ] Create project at hackathon start (March 31)
+- [ ] Link this GitHub repo to Devpost submission
+- [ ] Commit regularly — judges check git history
+- [ ] Submit draft early, update before code freeze
+- [ ] Record video demo (recommended for finalist consideration)

@@ -83,6 +83,7 @@ No manual rate updates needed — rate increases automatically as xStocks compou
 ## Open Questions for the Team
 
 1. **@tinkk0** — Is there already a Morpho Blue market on INK for wSTRCx collateral? Or do we need to create one?
-2. ~~CoW Protocol on INK?~~ ✅ **Confirmed** — Spreads.fi already runs CoW swaps on INK
-3. **@tinkk0** — Morpho Bundler deployed on INK? (Needed for atomic wrap+deposit+borrow)
-4. **@Waj** — Does Spreads already have a Privy app ID we can reuse for the hackathon?
+2. ✅ **CoW Protocol on INK confirmed** — only DEX available, Spreads.fi already routes through it
+3. ✅ **Morpho Blue on INK mainnet confirmed** (tinkk0, 2026-03-29)
+4. **@tinkk0** — Morpho Bundler deployed on INK? (Needed for atomic wrap+deposit+borrow — status unknown)
+5. **@Waj** — Does Spreads already have a Privy app ID we can reuse for the hackathon?
