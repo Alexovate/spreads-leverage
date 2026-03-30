@@ -49,6 +49,16 @@ Achievable leverage: ~3x with 86% LTV after sufficient iterations.
 
 ---
 
+## Why Flash Loans Are Not Viable Here
+
+A flash-loan-based leverage strategy (borrow full amount → swap → deposit → repay in one tx) is **incompatible with this design**. CoW Protocol settles orders **off-chain and asynchronously (~2 min)**; a flash loan must be repaid within the same transaction. The swap step cannot be completed atomically, so a single-transaction flash loan loop is impossible.
+
+This is a deliberate architectural constraint, not a gap to be solved later. The multi-transaction loop is the correct approach for CoW-based swaps.
+
+**What can be atomized (partial):** Steps 2–4 (wrap → deposit → borrow) are on-chain and synchronous. If the Morpho Bundler is deployed on INK, these three steps can be bundled into one transaction per loop iteration — but Step 1 (the CoW swap) always requires a separate async transaction.
+
+---
+
 ## CoW Swap Timing Risk
 
 CoW orders take ~2 minutes to settle. Between swap submission and fill, the user is exposed to:
